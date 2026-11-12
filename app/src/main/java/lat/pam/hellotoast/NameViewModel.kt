@@ -11,3 +11,4 @@ class NameViewModel : ViewModel() {
 
     // Rest of the ViewModel...
 }
+
